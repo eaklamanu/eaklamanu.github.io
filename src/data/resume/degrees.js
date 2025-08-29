@@ -1,8 +1,8 @@
 const degrees = [
   {
     school: 'Kwame Nkrumah University of Science and Technology',
-    degree: 'BSc. Computer Engineering',
-    link: 'https://www.knust.edu.gh/',
+    degree: 'BSc. Electrical/Electronic Engineering',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/bsc-electricalelectronic-engineering',
     year: 2023,
   },
 

@@ -10,10 +10,9 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'sessitornam+site',
-  'sessitornam+dream',
-  'sessitornam+dev',
-  'sessitornam+architect',
+  'elorm+site',
+  'elorm+dream',
+  'elorm+dev',
 ];
 
 const useInterval = (callback, delay) => {

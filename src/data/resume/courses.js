@@ -1,93 +1,153 @@
 const courses = [
   {
+    title: 'Basic Mechanics',
+    number: 'ME 161',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST',
+  },
+  {
     title: 'Semiconductor Devices',
-    number: 'COE 271',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
-    university: 'KNUST',
-  },
-  {
-    title: 'Circuit Theory',
-    number: 'COE 287',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
-    university: 'KNUST',
-  },
-  {
-    title: 'Programming and Problem Solving',
-    number: 'COE 162',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    number: 'EE 271',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST',
   },
   {
     title: 'Digital Systems',
-    number: 'COE 272',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    number: 'EE 272',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST',
+  },
+  {
+    title: 'Circuit Theory',
+    number: 'EE 287',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST',
   },
 
   {
-    title: 'Numerical Analysis',
-    number: 'MATH 351',
+    title: 'Electrical Measurement and Instrumentation',
+    number: 'EE 288',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'C Programming',
+    number: 'COE 251',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Introduction to Economics',
+    number: 'ECON 152',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Power Electronics',
+    number: 'EE 366',
     link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
     university: 'KNUST'
   },
   {
     title: 'Linear Electronic Circuits',
-    number: 'COE 371',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    number: 'EE 371',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST'
   },
   {
-    title: 'Classical Control Systems',
-    number: 'COE 387',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    title: 'Analog Communication Systems',
+    number: 'TE 271',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Digital Communication Systems',
+    number: 'TE 386',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Digital Control Systems',
+    number: 'EE 380',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Classical Control System',
+    number: 'EE 387',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Numerical Analysis',
+    number: 'MATH 351',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Statistics 1',
+    number: 'MATH 353',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST'
   },
   {
     title: 'Microprocessors',
     number: 'COE 381',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
-    university: 'KNUST'
-  },
-  {
-    title: 'Embedded Systems',
-    number: 'COE 358',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
-    university: 'KNUST'
-  },
-  {
-    title: 'Fault Diagnosis and Failure Tolerance',
-    number: 'COE 480',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
-    university: 'KNUST'
-  },
-  {
-    title: 'Digital Signal Processing',
-    number: 'COE 472',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST'
   },
   {
     title: 'Digital Computer Design',
     number: 'COE 382',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Electric Drives',
+    number: 'EE 462',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Power System Operation and Control',
+    number: 'EE 467',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Digital Signal Processing',
+    number: 'EE 472',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST'
   },
   {
     title: 'Computer Networking',
     number: 'COE 475',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST'
   },
   {
-    title: 'Computer Architecture',
-    number: 'COE 485',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    title: 'Numerical Analysis',
+    number: 'MATH 351',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST'
   },
   {
-    title: 'Introduction to VLSI',
-    number: 'COE 486',
-    link: 'https://compeng.knust.edu.gh/undergraduate/bsc-computer-engineering',
+    title: 'Numerical Analysis',
+    number: 'MATH 351',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Numerical Analysis',
+    number: 'MATH 351',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
+    university: 'KNUST'
+  },
+  {
+    title: 'Numerical Analysis',
+    number: 'MATH 351',
+    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST'
   }
 

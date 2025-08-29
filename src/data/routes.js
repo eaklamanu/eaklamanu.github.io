@@ -1,7 +1,7 @@
 const routes = [
   {
     index: true,
-    label: "Nero Kofi Etornam NOVOR",
+    label: "Elorm Fountain AKLAMANU",
     path: '/',
   },
   {

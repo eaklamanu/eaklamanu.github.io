@@ -13,85 +13,97 @@
  */
 const work = [
   {
-    name: 'Department of Computer Engineering, KNUST',
+    name: 'Department of Electrical/Electronic Engineering, KNUST',
     position: 'Research Assistant',
-    url: 'https://compeng.knust.edu.gh/',
-    startDate: '2023-09-01',
-    summary: ``,
-    highlights: [
-      'Implemented digital designs to specification in VHDL and Verilog for FPGA and ASIC implementation.',
-      'Conducted research into Residual Number System single cycle Forward and Backward conversion.',
-      'Reviewed literature on Network on Chips, interconnects, switches and on‑chip routers.',
-      'Implemented routers in hardware, for switching packets in SoCs',
-      'Reviewed literature on branch prediction: direction and target address prediction.'
-    ],
-  },
-  {
-    name: 'Department of Computer Engineering, KNUST',
-    position: 'Teaching Assistant',
-    url: 'https://compeng.knust.edu.gh/',
+    url: 'https://eleceng.knust.edu.gh/',
     startDate: '2023-10-01',
+    endDate: '2024-10-01',
     summary: ``,
     highlights: [
-      'I tutored students and facilitated their lab sessions in the following courses: Digital Systems Design I & II, Computer Architecture, Linear Electronics, Operating Systems and VLSI.',
-      'I sparked the interest of 10 students to pursue the field of Computer Design and Architecture ',
-      'Guided final year undergraduate students in their capstone projects, “SwayFit: A corrective sitting posture wearable.”, “Smart Driver Drowsiness Detection System(SDDDS)”, “Design of Smart Water Metering System”',
-      'Assisted in the instruction of the undergraduate level Electrical & Computer Engineering courses',
-      'I helped students understand the concepts better and also helped them with their lab assignments.',
-      'Instructed and assisted undergraduate students in preparation for resit examinations in Digital Systems Design and Computer Architecture.'
+      "Designed and implemented a study comparing the CO₂ footprint of electric vehicles and internal combustion engine cars.",
+      "Built models to estimate EV energy use and linked it to national electricity generation data, including thermal plant emissions.",
+      "Compared emissions per mile across different daily mileage scenarios, revealing EVs provide more environmental benefit than ICE vehicles."
     ],
   },
   {
-    name: 'TI - Cadence Lab, Department of Computer Engineering, KNUST',
-    position: 'Internship Facilitator and Instructor',
-    url: 'https://compeng.knust.edu.gh/',
-    startDate: '2023-09-01',
-    endDate: '2023-12-01',
+    name: 'Department of Electrical/Electronic Engineering, KNUST',
+    position: 'Teaching Assistant',
+    url: 'https://eleceng.knust.edu.gh/',
+    startDate: '2023-10-01',
+    endDate: '2024-10-01',
     summary: ``,
     highlights: [
-      'Facilitated an internship program aimed at extending exposure to already‑taught and newer subjects in Digital Design and Computer Architecture',
-      'Taught participant groups HDLs (VHDL and Verilog), CPU microarchitectures and symmetric Cryptography Ciphers',
-      'Facilitated participant groups to synthesize digital designs on FPGA implementations',
+     'Supported large classes across multiple subjects; Classical Control Systems (230 students), Digital Control Systems (40 students), and Digital Systems & Electrical Measurements (300 students).',
+     'Prepared a comprehensive and visually engaging lecture slides for Digital Control Systems which was adopted by the course instructor.',
+     'Guided students in applying MATLAB to solve real-world control system problems, reinforcing both theoretical understanding and practical design skills.',
+     'Mentored students facing academic challenges, providing both technical coaching and empathetic support to help them regain confidence and improve performance.'
     ],
   },
   {
-    name: 'TI Cadence Lab, KNUST',
+    name: "KNUST Electrical and Electronic Engineering Students' Association",
+    position: 'Study Group Leader',
+    url: 'https://www.linkedin.com/company/eleesa-knust/?originalSubdomain=gh',
+    startDate: '2019-09-01',
+    endDate: '2023-09-01',
+    summary: ``,
+    highlights: [
+      'Led collaborative study groups in key engineering courses including Classical Control Systems, Power Electronics, and Digital Systems, while also supporting peers in foundational subjects such as Calculus and Differential Equations.',
+      'Motivated peers to approach academics with renewed focus and discipline.',
+      'Assisted peers in improving time management by designing study schedules and helping them stay accountable.'
+    ],
+  },
+  {
+    name: "KNUST, Electrical and Electronic Engineering Students' Association",
+    position: 'Class Representative',
+    url: 'https://www.linkedin.com/company/eleesa-knust/?originalSubdomain=gh',
+    startDate: '2022-05-01',
+    endDate: '2023-09-01',
+    summary: ``,
+    highlights: [
+      'Ensured lecture halls and teaching equipment were well-prepared, creating a supportive environment for learning.',
+      'Advocated for classmates experiencing financial hardship, connecting them with available support.',
+      'Facilitated communication between students, lecturers, and university authorities to address academic and administrative concerns.',
+'Provided one-on-one guidance to struggling students, helping them regain confidence and improve academic performance.'
+    ],
+  },
+  {
+    name: 'VOLTA RIVER AUTHORITY, KPONG GENERATING STATION',
     position: 'Intern',
-    url: 'https://compeng.knust.edu.gh/',
-    startDate: '2022-09-01',
-    endDate: '2022-12-01',
-    summary: ``,
-    highlights: [
-      'Designed and implemented 8 and 16‑bit dedicated processors in VHDL.',
-      'Implemented DES cipher on an FPGA and verified Design',
-      'Simulated MIPS processor in MARS simulator',
-
-    ],
-  },
-  {
-    name: 'FOCUS FM, KNUST',
-    position: 'Volunteer',
-    url: 'https://focusfmknust.com/',
-    startDate: '2022-01-01',
+    url: 'https://www.vra.com/our_mandate/kpong_hydro_plant.php',
+    startDate: '2022-10-01',
     endDate: '2022-11-01',
     summary: ``,
     highlights: [
-      'Provided technical support, servicing computers and IT tools',
-      'Produced the Teknokrat show live on air and Facebook',
-      'Sourced and edited footage to make ready for the Teknokrat show',
-      'Created marketing materials for social media'
+      'Gained hands-on experience with circuit breakers, relays, and monitoring devices at the Protection and Control Section, learning how they safeguard power systems.',
+      'Explored transformer operations and faults, including the use of transformer oil for cooling and fault management, at the Electrical Section.',
+      'Built practical knowledge of power system maintenance and troubleshooting techniques for critical electrical components, enhancing understanding of real-world grid reliability.'
     ],
   },
   {
-    name: 'JJJ Woolley International School, Accra',
-    position: 'Pupil Teacher',
-    url: '',
+    name: 'Sonrise Christian Senior High School',
+    position: 'Clinic Assistant',
+    url: 'https://sonrise.edu.gh/',
     startDate: '2018-09-01',
     endDate: '2019-07-01',
     summary: ``,
     highlights: [
-      'Tutored pupils in Mathematics, Natural Science and Information Communication Technology',
-      '15 learners improved drastically in their performance and understanding of the related subjects'
+      'Assisted the school nurse in maintaining a clean and organized clinic environment to ensure effective patient care.',
+'Supported treatment of minor conditions, including wound cleaning and administering basic pain relief under supervision.',
+'Helped in managing asthma cases through nebulization, providing direct support to patients in need.',
+'Gained early exposure to healthcare teamwork and patient support, developing responsibility and attention to detail.'
+
+    ],
+  },
+ {
+    name: 'Sonrise Christian Senior High School',
+    position: 'NSMQ Team Support',
+    url: 'https://sonrise.edu.gh/',
+    startDate: '2018-09-01',
+    endDate: '2019-07-01',
+    summary: ``,
+    highlights: [
+      'Tutored and coached team members in key subject areas in preparation for contests',
+      'Participated in practice contests simulating real competition conditions and helping the team refine strategies'
     ],
   },
  

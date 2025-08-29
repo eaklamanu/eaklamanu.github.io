@@ -10,22 +10,12 @@ import { faEnvelope } from '@fortawesome/free-regular-svg-icons/faEnvelope';
 
 const data = [
   {
-    link: 'https://github.com/etorkay',
+    link: 'https://github.com/eaklamanu',
     label: 'Github',
     icon: faGithub,
   },
-  // {
-  //   link: 'https://facebook.com/d',
-  //   label: 'Facebook',
-  //   icon: faFacebookF,
-  // },
   {
-    link: 'https://www.instagram.com/sessi.tor/',
-    label: 'Instagram',
-    icon: faInstagram,
-  },
-  {
-    link: 'https://www.linkedin.com/in/nero-novor-243915166/',
+    link: 'https://www.linkedin.com/in/elorm-aklamanu-176699181/',
     label: 'LinkedIn',
     icon: faLinkedinIn,
   },
@@ -40,7 +30,7 @@ const data = [
   //   icon: faTwitter,
   // },
   {
-    link: 'mailto:sessitornam+site@gmail.com',
+    link: 'mailto:elormaklamanu626@gmail.com',
     label: 'Email',
     icon: faEnvelope,
   },

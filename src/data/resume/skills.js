@@ -7,115 +7,40 @@ const skills = [
     category: ['Languages'],
   },
   {
-    title: 'C++',
+    title: 'Python',
     competency: 3,
     category: ['Languages'],
   },
   {
-    title: 'Java',
+    title: 'JavaScript',
     competency: 3,
     category: ['Languages'],
   },
   {
-    title: 'Vala',
+    title: 'MATLAB',
     competency: 3,
     category: ['Languages'],
   },
   {
-    title: 'Rust',
+    title: 'Octave',
     competency: 4,
     category: ['Languages'],
-  },
-  {
-    title: 'Matlab',
-    competency: 3,
-    category: ['Languages', 'EDA'],
-  },
-  {
-    title: 'Cmake',
-    competency: 3,
-    category: ['Languages', 'Tools'],
-  },
-
-
-  //Scripting Languages
-  {
-    title: 'Bash',
-    competency: 3,
-    category: ['Tools', 'Languages'],
-  },
-  {
-    title: 'Perl',
-    competency: 3,
-    category: ['Tools', 'Languages'],
-  },
-
-  //Simulators and Assemblers
-  {
-    title: 'MARS',
-    competency: 4,
-    category: ['Tools', 'Simulators'],
-  },
-  {
-    title: 'MASM',
-    competency: 4,
-    category: ['Tools', 'Simulators'],
   },
   
-
-  // Hardware Description Languages
-  {
-    title: 'VHDL',
-    competency: 5,
-    category: ['Languages', 'HDLs'],
-  },
-  {
-    title: 'Verilog',
-    competency: 4,
-    category: ['Languages', 'HDLs'],
-  },
-  {
-    title: 'SystemVerilog',
-    competency: 3,
-    category: ['Languages', 'HDLs'],
-  },
-
-  //EDA Tools
-  {
-    title: 'Xilinx ISE',
-    competency: 5,
-    category: ['Tools', 'EDA'],
-  },
-  {
-    title: 'Xilinx Vivado',
-    competency: 5,
-    category: ['Tools', 'EDA'],
-  },
-  {
-    title: 'Candance Virtuoso',
-    competency: 4,
-    category: ['Tools', 'EDA'],
-  },
-
   
-  //ISA and Architecture
-  {
-    title: 'MIPS',
-    competency: 4,
-    category: ['ISA', 'Assembly'],
-  },
-  {
-    title: 'RISC-V',
-    competency: 2,
-    category: ['ISA', 'Assembly'],
-  },
-  {
-    title: 'ARM',
-    competency: 2,
-    category: ['ISA', 'Assembly'],
-  },
 
-  //Operating Systems
+
+  //Databases
+  {
+    title: 'Mongodb',
+    competency: 3,
+    category: ['Databases', 'Languages'],
+  },
+  {
+    title: 'MySQL',
+    competency: 3,
+    category: ['Databases', 'Languages'],
+  },
 
 
 ].map((skill) => ({ ...skill, category: skill.category.sort() }));
