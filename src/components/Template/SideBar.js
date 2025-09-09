@@ -23,9 +23,9 @@ const SideBar = () => (
       <h2>About</h2>
       <p>
         Hello there, Elorm here. I am a{' '}
-        <a href="https://www.knust.edu.gh/">KNUST</a> graduate, and a Control Systems enthusiast. 
+        <a href="https://www.knust.edu.gh/">KNUST</a> graduate, an engineer in training building expertise in control systems and robotics. 
         
-        
+    
       </p>
       <ul className="actions">
         <li>
