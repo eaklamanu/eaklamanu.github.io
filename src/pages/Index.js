@@ -6,8 +6,8 @@ import Main from '../layouts/Main';
 const Index = () => (
   <Main
     description={
-      "Nero's personal website. KNUST graduate, "
-      + 'Computer Architect and Philosopher who creates truce between electrons artistically.'
+      "Elorm's personal website. KNUST graduate, "
+      + 'Control Systems Enthusiast. Writer.'
     }
   >
     <article className="post" id="index">
@@ -24,14 +24,12 @@ const Index = () => (
       </header>
       <p>
         {' '}
-        Dive into my journey as I navigate the intersection of technology and creativity. Explore my resume, projects, and feel free to reach out to <Link to="/contact">me</Link>. 
-        
+        Hello and welcome. From code to circuits, poems to projects, and faith to life — this is where it all unfolds.
+                My name is Elorm Fountain Aklamanu, an engineer passionate about using control systems and robotics to solve real-world problems. This space gives you glimpses into my Christian faith,
+                my love for engineering, and my journey in art. I hope you find something that speaks to you. Enjoy your tour and feel free to reach out to <Link to="/contact">me</Link>. 
+    
       </p>
-      <p>
-        {' '}
-        Whether you're here to learn more about me or just browsing through, there's something for everyone. And don't miss out on my latest visual captures—check out my shots on Instagram{' '}
-        <a href="https://www.instagram.com/sessi.tor/">here</a>.
-      </p>
+      
     </article>
   </Main>
 );
