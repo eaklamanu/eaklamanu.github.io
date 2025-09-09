@@ -1,136 +1,143 @@
-# Intro
+#Intro
+I believe life is simple — though not always easy. Some of its biggest questions often have simple yet profound answers: Why am I here? What does a successful life look like?
+Before anything else, I am a Christian. I believe our purpose on earth is to glorify God, and I strive to let that shape how I live and work. I also happen to be a quintessential introvert who enjoys simulating conversations, ideas, and problems in my head — you might say I carry a “model of the world” within me.
+If you’d like to talk about faith, ideas, or engineering, I’d be glad to connect with you here(elormaklamanu626@gmail.com).
 
-I believe the very things that scare you, that chase you, are the very things you should face heads-on. Why keep fleeing when you can rather chase?
-So, I decided the very things I'm scared of are the very things I'll do. If it's speaking to a gathering, or travelling to a new location without any map, I'll do it.
-Really, what's there to loose if you take the chances, in fact you were never going to gain if you don't try in the first place. This concept keeps me going, so I try, even if all odds are against me.
+#My Journey
+My path into robotics and control systems has been a gradual one, shaped by early interests in Mathematics and Physics. These subjects led me to study Electrical and Electronic Engineering, where I discovered the fascinating world of Control Systems.
+I am captivated by how simple inputs can influence complex systems — how a small adjustment, like turning a knob, can move something as large as a satellite. What excites me most is how individual components, when brought together, form systems that are greater than the sum of their parts. I am currently seeking an opportunity to pursue graduate studies, with the goal of deepening my knowledge of control systems and applying them to real-world challenges.
 
-# My Journey
+#What Drives Me
+Efficiency — that single word captures my motivation for pursuing Control Systems. I believe technology can take on tasks more effectively than humans alone, freeing time, reducing errors, and solving many of the world’s challenges. Technology, when rightly applied, can be our generation’s gift to the next by enhancing quality of life and raising the standard of living.
+My goal is to design control systems that solve real-world problems, and also create opportunities that make everyday life a little easier.
 
-My journey into the world of computing started with a simple curiosity about how things work. This curiosity led me to pursue a degree in Computer Engineering at the Kwame Nkrumah University of Science and Technology, where I first delved into digital logic design and microprocessors. That foundational experience only deepened my interest, pushing me to explore more advanced topics, while I was a Teaching Assistant in the Department of Computer Engineering, at KNUST.
+#I Like
+I enjoy reading and journaling, sometimes writing poems and short stories along the way. Writing helps me express my emotions in a constructive way. I love running because it makes me feel like I'm pushing my limits. Classical music keeps me grounded and helps me focus. I love cooking especially when I can share the food with others.
 
-# What Drives Me?
+# Beyond the Books and Code
+I love reading my Bible and am currently on a daily plan to finish reading it this year 2025. At the core of who I am is my faith in Jesus and the Church of Christ. I also love the stars and the sky, and hope to one day visit an observatory. Art captivates me too — paintings and drawings draw me in, and I’m the type who can stare at a piece and immerse myself in its world. I write poems, stories, and letters; in fact, most of my journal entries are written as letters. There is so much beauty in this world, yet many rarely pause to lift their eyes and see the stars. I try to notice the beauty in God’s creation, and it keeps life in perspective for me.
 
-I believe that technology holds the key to solving many of the world's challenges, and I am particularly excited about the possibilities in the post-Moore's Law era. The idea that traditional scaling is no longer enough motivates me to look for and into novel solutions, such as Processing in Memory (PIM) and domain-specific architectures. These areas of research represent not just a technical challenge but also an opportunity to make computing more efficient and accessible.
+#I think
+One of man's greatest inventions was the printing press. Today, knowledge can be shared with ease, outliving the compiler who first gathered it.
 
-# Random Ideas
+#My favorite
+- Book - The Bible
+- Novel - The Secret Garden
 
-In this section, I layout some random ideas, in any domain the idea may fall in. The ideas will mostly be philosophical, bear with me.
+#Bucket List
+- Learn how to read music
+- Learn to play the piano or violin
+- Learn sign language
 
-1. I believe things work out in the end.
-2. Language is an approximated model of one's thoughts.
-3. Everyone at the top works hard one way or the other.
-4. Wisdom cannot exist without knowledge
-5. The purpose of life is to seek orderliness
+#Lessons I live by
+- There is a cure-all for all of life's problems: knowing God.
+- The Bible has all the answers you need.
+- Don't be comfortable with not having answers to certain questions: What is the point of life? [If you want to give the Bible a chance, read the Book of Ecclesiastes. It answers it succinctly]
 
-# Beyond the Code
+#Looking Ahead
+I hope to pursue a career in Control Systems, where I can combine teaching and research to inspire the next generation of engineers. My vision is to contribute to the intersection of Control Systems, Robotics, and Human Well-being by advancing knowledge while creating practical solutions. For me, engineering is not only about solving equations, but about using those equations to improve lives and shape a better future.
 
-When I'm not immersed in research or working on a project, you’ll probably find me running, exploring the outdoors, or engrossed in a good book. I also enjoy listening to podcasts that cover a range of topics from true crime to history, alongside intellectual discussions by Jordan Peterson and explorations of Greek mythology. These activities help me stay grounded and offer a fresh perspective on my work.
+# You may love this like I do
 
-# I Like
-
-- Running
-- Quiet
-- Books
-- Food
-- The concept of time
-- Podcasts (Serial Killers, Unsolved Murders, History of the Cold War, Greek mythologies, The Jordan B. Peterson Podcast, Embedded FM)
-- Mobile photography (I plan to explore other forms once I get an actual camera)
-- The idea of skiing and skydiving—both are on my bucket list!
-- My favorite TV show is Sherlock Holmes produced by BBC—a brilliant depiction of deduction and intrigue that never fails to inspire me.
-
-# Fun facts
-
-- The flow of time is constant, but our perception of time changes with age. Perhaps we become busier, so it keeps running out.
-- I've made a couple of YouTube videos. Check it out [here](http://www.youtube.com/@nerosessi8909)!
-
-# Finally
-
-I’m currently on a mission to further my research in computer architecture, with a particular focus on designing high-performance, energy-efficient systems. I’m excited about the opportunity to contribute to cutting-edge research and work alongside like-minded individuals in academia or industry. If you're interested in the same fields or just want to chat about technology (or even skydiving!), feel free to reach out.
-Check out some of my poems below too!
-
-# My favourite poem
-
-<h2 align='center'>Our Deepest Fear</h2>
-<center>"Our deepest fear is not that we are inadequate.</center>
-<center>Our deepest fear in that we are powerful beyond measure.</center>
-<center>It is our Light, not our Darkness, that most frightens us.</center>
-<center>We ask ourselves, who am I to be brilliant, gorgeous, talented, fabulous?</center>
-<center>Actually, who are you not to be?</center>
+<h2 align = 'center'>The Touch of the Master's Hand</h2>
+<center>'Twas battered and scarred, and the auctioneer  </center>
+<center>Thought it scarcely worth his while  </center>
+<center>To waste much time on the old violin,  </center>
+<center>But held it up with a smile.  </center>
+<center>"What am I bidden, good folks," he cried,</center>
+<center>"Who'll start the bidding for me?"  </center>
+<center>"A dollar, a dollar. Then two! Only two?  </center>
+<center>Two dollars, and who'll make it three?"  </center>
 <br>
-<center>You are a child of God. Your playing small does not serve the World.</center>
-<center>There is nothing enlightening about shrinking</center>
-<center>so that other people won’t feel unsure around you.</center>
-<center>We were born to make manifest the glory of God that is within us.</center>
-<center>It is not just in some of us; it is in everyone.</center>
+<center>"Three dollars, once; three dollars, twice;</center>
+<center>Going for three…" But no,</center>
+<center>From the room, far back, a grey-haired man</center>
+<center>Came forward and picked up the bow;  </center>
+<center>Then wiping the dust from the old violin,  </center>
+<center>And tightening the loosened strings,  </center>
+<center>He played a melody pure and sweet,  </center>
+<center>As a caroling angel sings.  </center>
 <br>
-<center>As we let our own Light shine,</center>
-<center>we consciously give other people permission to do the same.</center>
-<center>As we are liberated from our own fear,
-our presence automatically liberates others."</center>
+<center>The music ceased, and the auctioneer,</center>
+<center>With a voice that was quiet and low,  </center>
+<center>Said: "What am I bid for the old violin?"  </center>
+<center>And he held it up with the bow.  </center>
+<center>"A thousand dollars, and who'll make it two?  </center>
+<center>Two thousand! And who'll make it three?  </center>
+<center>Three thousand, once; three thousand, twice,  </center>
+<center>And going and gone," said he.  </center>
 <br>
-<center>`A Return to Love - Marianne Williamson`</center>
+<center>The people cheered, but some of them cried,</center>
+<center>"We do not quite understand.  </center>
+<center>What changed its worth?" Swift came the reply:  </center>
+<center>"The touch of the Master's hand."  </center>
+<center>And many a man with life out of tune,  </center>
+<center>And battered and scarred with sin,  </center>
+ <center>Is auctioned cheap to the thoughtless crowd  </center>
+<center>Much like the old violin.  </center>
+<br>
+<center>A "mess of pottage," a glass of wine,</center>
+<center>A game — and he travels on.  </center> 
+<center>He is "going" once, and "going" twice,  </center>
+<center>He's "going" and almost "gone."  </center>
+<center>But the Master comes, and the foolish crowd  </center> 
+<center>Never can quite understand  </center>
+<center>The worth of a soul and the change that is wrought</center>
+<center>By the touch of the Master's hand.</center>
+<br>
+<center>Myra 'Brooks' Welch</center>
 
-# Some of My Poems
+<br>
+<br>
+<br>
+# Some of my pieces
+## Bleeding on paper 
 
-<h3 align='center'>Gray Ball</h3>
+<h3 align='center'>What If</h3>
 
-    Draw thine humble globe to my home
-    Stir up my waters ever so slightly
-    Reminisce with me the days of glory
-    Make us smile 
+    What if I were brave enough  
+	To speak my truth, unbound, unafraid,  
+	To say to whomever, all that I feel?
 
-    Remind me, your crescent shimmer 
-    Bring to bear the path we chose
-    Cause our jasmine to bloom
-    Make us praise
+	What if I could loosen my grip,  
+	Care a little less,  
+	Turn my feelings on and off,  
+	Like the flick of a switch,  
+	Whenever the weight grew too heavy?  
 
-    Guide us once more to your lands
-    May you quench our thirst
-    Be the reason for the seasons
-    Make us grow
+	What if my heart could surrender with ease,  
+	Give up, move on,  
+	And run—just run—  
+	Far away, even for a little while?  
 
-<h3 align='center'>Memories They Flip</h3>
+	What if I could see the beauty,  
+	Let it fill my eyes,  
+	And choose to let go of the pain  
+	That stains the peace of each fleeting moment?  
 
-    Only keep the good experiences they say
-    Live youthful and free, be stupid and bleak 
-    Only shout, at the dim snotty waiter
-    Life peaceful led to dreams ashore 
+	If I could do all this,  
+	Would the ache finally fade?  
+	Or is this struggle,  
+	This constant fight,  
+	What it means to keep being me?
+<br>
+<br>
+<br>
+## Peace, Perfect Peace    
+<h3 align= 'center'>Sweet Communion</h3>
+	Invincible, yet so fragile,
+	We fit together like a puzzle.
+	Together, we're strong, never to quaver,
+	But storms within make us waver.
+	When we're apart, pangs of despair loom -
+	Emptiness fills the void; all I see is gloom.
 
-    Now they lived only in memory
-    Shall zero be written to all?
-    Should rays make them flip?
-    Must they rot to nought?
+	Our hearts are bound by steel cords 
+	That yearns me back, a wailing twanging to come home
+	Hand in hand, we're complete,
+	Head on Your shoulder, comfort abounds
+	Arms around You, a fountain of joy springs
+	In each other’s presence - I call home
 
-    Refreshed they recover, 
-    To keep, lest perpetual 
-    Draw out the power that keeps
-    The last touch ablaze
 
-<h3 align='center'>In Abundance</h3>
-
-    Even so, some withered in the rain,
-    Should the blame be the rain's?
-    Is it fate to be shamed,
-    While others thrive and gain?
-
-    Dredged apart from the root,
-    Amass, we wither and die,
-    But can we ever be one,
-    And reach up towards the sky?
-
-    Miles away your smile flares,
-    A beacon in the night,
-    But still, we are divided,
-    By distance and plight.
-
-    Hitherto the bourgeois rode,
-    Not of chariots with merchants,
-    But on the backs of those who toil,
-    Their wealth, built on burdens.
-
-    Yet even as we face these trials,
-    We must stand and hold our ground,
-    For, only through our unity,
-    Can true justice be found.
-
-I hope you enjoyed them!
+I hope you liked them!
