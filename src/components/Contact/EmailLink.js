@@ -10,9 +10,10 @@ const validateText = (text) => {
 };
 
 const messages = [
-  'elorm+site',
-  'elorm+dream',
-  'elorm+dev',
+  'elorm + Christian + need your help',
+  'elorm + robotics + wanna work on a project',
+  'elorm + creative + check this out',
+  'elorm + learner + what do you think about this',
 ];
 
 const useInterval = (callback, delay) => {
@@ -34,7 +35,7 @@ const useInterval = (callback, delay) => {
 };
 
 const EmailLink = ({ loopMessage }) => {
-  const hold = 50; // ticks to wait after message is complete before rendering next message
+  const hold = 20; // ticks to wait after message is complete before rendering next message
   const delay = 50; // tick length in mS
 
   const [idx, updateIter] = useState(0); // points to current message
@@ -73,6 +74,7 @@ const EmailLink = ({ loopMessage }) => {
       onMouseEnter={() => setIsActive(false)}
       onMouseLeave={() => idx < messages.length && setIsActive(true)}
     >
+      {/*<a href={validateText(message) ? `mailto:${message}@gmail.com` : ''}>*/} 
       <a href={validateText(message) ? `mailto:${message}@gmail.com` : ''}>
         <span>{message}</span>
         <span>@gmail.com</span>
