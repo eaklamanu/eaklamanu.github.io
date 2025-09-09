@@ -27,13 +27,13 @@ const data = [
   {
     key: 'countries',
     label: 'Countries visited',
-    value: 3,
+    value: 1,
     link: '',
   },
   {
     key: 'location',
     label: 'Current city',
-    value: 'Kumasi, KSI',
+    value: 'Accra',
   },
 ];
 
