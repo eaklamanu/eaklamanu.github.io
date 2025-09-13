@@ -35,7 +35,7 @@ One of man's greatest inventions was the printing press. Today, knowledge can be
 - Don't be comfortable with not having answers to certain questions: What is the point of life? [If you want to give the Bible a chance, read the Book of Ecclesiastes. It answers it succinctly]
 
 #Looking Ahead
-I hope to pursue a career in Control Systems, where I can combine teaching and research to inspire the next generation of engineers. My vision is to contribute to the intersection of Control Systems, Robotics, and Human Well-being by advancing knowledge while creating practical solutions. For me, engineering is not only about solving equations, but about using those equations to improve lives and shape a better future.
+I hope to pursue a career in Control Systems, where I can combine teaching and research to inspire the next generation of engineers. My vision is to contribute to the intersection of Control Systems, Robotics, and Human Well-being by advancing knowledge while creating practical solutions. For me, engineering is not only about solving equations, but further using those equations to improve lives and shape a better future.
 
 # You may love this like I do
 
@@ -133,11 +133,11 @@ I hope to pursue a career in Control Systems, where I can combine teaching and r
 	Emptiness fills the void; all I see is gloom.
 
 	Our hearts are bound by steel cords 
-	That yearns me back, a wailing twanging to come home
+	That yearn me back, a wailing twanging to come home
 	Hand in hand, we're complete,
 	Head on Your shoulder, comfort abounds
 	Arms around You, a fountain of joy springs
-	In each other’s presence - I call home
+	In each other’s presence - I've found home
 
 
 I hope you liked them!
