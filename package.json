@@ -1,11 +1,11 @@
 {
-  "name": "etorkay.github.io",
+  "name": "eaklamanu.github.io",
   "version": "4.0.0",
-  "homepage": "https://etorkay.github.io/",
+  "homepage": "https://eaklamanu.github.io/",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/etorkay/etorkay.github.io.git"
+    "url": "https://github.com/eaklamanu/eaklamanu.github.io.git"
   },
   "engines": {
     "node": ">=16.x"

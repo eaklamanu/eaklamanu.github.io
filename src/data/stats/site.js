@@ -8,17 +8,17 @@ const data = [
   {
     label: 'Stars this repository has on github',
     key: 'stargazers_count',
-    link: 'https://github.com/etorkay/etorkay.github.io/stargazers',
+    link: 'https://github.com/eaklamanu/eaklamanu.github.io/stargazers',
   },
   {
     label: 'Number of people watching this repository',
     key: 'subscribers_count',
-    link: 'https://github.com/etorkay/etorkay.github.io/stargazers',
+    link: 'https://github.com/eaklamanu/eaklamanu.github.io/stargazers',
   },
   {
     label: 'Number of forks',
     key: 'forks',
-    link: 'https://github.com/etorkay/etorkay.github.io/network',
+    link: 'https://github.com/eaklamanu/eaklamanu.github.io/network',
   },
   {
     label: 'Number of spoons',
@@ -31,12 +31,12 @@ const data = [
   {
     label: 'Open github issues',
     key: 'open_issues_count',
-    link: 'https://github.com/etorkay/etorkay.github.io/issues',
+    link: 'https://github.com/eaklamanu/eaklamanu.github.io/issues',
   },
   {
     label: 'Last updated at',
     key: 'pushed_at',
-    link: 'https://github.com/etorkay/etorkay.github.io/commits',
+    link: 'https://github.com/eaklamanu/eaklamanu.github.io/commits',
     format: (x) => dayjs(x).format('MMMM DD, YYYY'),
   },
   {
@@ -45,7 +45,7 @@ const data = [
     xargs -I file cat file | wc -l */
     label: 'Lines of Javascript powering this website',
     value: '2070',
-    link: 'https://github.com/etorkay/etorkay.github.io/graphs/contributors',
+    link: 'https://github.com/eaklamanu/eaklamanu.github.io/graphs/contributors',
   },
 ];
 

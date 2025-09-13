@@ -26,7 +26,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: https://elormfountain.github.io/
+      url: https://eaklamanu.github.io/
     runs-on: ubuntu-20.04
     timeout-minutes: 10
     steps:
