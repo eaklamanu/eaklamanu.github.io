@@ -37,6 +37,7 @@ jobs:
         with:
           #node-version-file: ".nvmrc"
           cache: "npm"
+          node-version: 18.20.8
       - name: Install
         run: npm ci
       - name: Build and Render
