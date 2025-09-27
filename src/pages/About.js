@@ -1,19 +1,20 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import Markdown from 'markdown-to-jsx';
-
+import aboutUrl from "../data/about.md";
 import Main from '../layouts/Main';
 
 const About = () => {
   const [markdown, setMarkdown] = useState('');
 
-  useEffect(() => {
-    import('../data/about.md').then((res) => {
-      fetch(res.default)
-        .then((r) => r.text())
-        .then(setMarkdown);
-    });
-  });
+
+
+useEffect(()=>{
+  fetch(aboutUrl)
+    .then((r) => r.text())
+    .then(setMarkdown);
+}, [])
+
 
   const count = markdown
     .split(/\s+/)
