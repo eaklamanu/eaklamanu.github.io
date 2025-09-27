@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import Markdown from 'markdown-to-jsx';
-import aboutUrl from "../data/about.md";
 import Main from '../layouts/Main';
 
 const About = () => {
@@ -9,12 +8,20 @@ const About = () => {
 
 
 
-useEffect(()=>{
-  fetch(aboutUrl)
+useEffect(() => {
+  import('../data/about.md')
+    .then((res) => {
+      const url = res?.default;
+      if (!url) throw new Error('Markdown URL not found');
+      return fetch(url);
+    })
     .then((r) => r.text())
-    .then(setMarkdown);
-}, [])
-
+    .then(setMarkdown)
+    .catch((err) => {
+      setMarkdown('Failed to load markdown file.');
+      console.error(err);
+    });
+}, []);
 
   const count = markdown
     .split(/\s+/)
