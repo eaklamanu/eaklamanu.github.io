@@ -8,10 +8,12 @@ const About = () => {
   const [markdown, setMarkdown] = useState('');
 
   useEffect(() => {
-    fetch('/about.md')     
+    import('../data/about.md').then((res) => {
+      fetch(res.default)
         .then((r) => r.text())
         .then(setMarkdown);
-  },[]);
+    });
+  });
 
   const count = markdown
     .split(/\s+/)
