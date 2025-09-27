@@ -125,32 +125,7 @@ const courses = [
     number: 'COE 475',
     link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
     university: 'KNUST'
-  },
-  {
-    title: 'Numerical Analysis',
-    number: 'MATH 351',
-    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
-    university: 'KNUST'
-  },
-  {
-    title: 'Numerical Analysis',
-    number: 'MATH 351',
-    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
-    university: 'KNUST'
-  },
-  {
-    title: 'Numerical Analysis',
-    number: 'MATH 351',
-    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
-    university: 'KNUST'
-  },
-  {
-    title: 'Numerical Analysis',
-    number: 'MATH 351',
-    link: 'https://eleceng.knust.edu.gh/undergraduate/details-syllabus',
-    university: 'KNUST'
   }
-
 
 ];
 
