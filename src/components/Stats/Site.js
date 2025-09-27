@@ -6,22 +6,33 @@ import initialData from '../../data/stats/site';
 const Stats = () => {
   const [data, setResponseData] = useState(initialData);
   // TODO think about persisting this somewhere
-  const fetchData = useCallback(async () => {
-    // request must be authenticated if private
+
+
+  
+
+// ...existing code...
+const fetchData = useCallback(async () => {
+  try {
     const res = await fetch(
       'https://api.github.com/repos/eaklamanu/eaklamanu.github.io',
     );
+    if (!res.ok) throw new Error('Network response was not ok');
     const resData = await res.json();
+
     setResponseData(
       initialData.map((field) => ({
         ...field,
-        // update value if value was returned by call to github
-        value: Object.keys(resData).includes(field.key)
-          ? resData[field.key]
-          : field.value,
+        value: resData[field.key] !== undefined ? resData[field.key] : field.value,
       })),
     );
-  }, []);
+  } catch (error) {
+    console.error('Failed to fetch GitHub repo stats:', error);
+    // Optionally, set an error state here
+  }
+}, []);
+// ...existing code...
+
+
 
   useEffect(() => {
     fetchData();
