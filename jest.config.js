@@ -1,7 +1,7 @@
 const config = {
   moduleNameMapper: {
     '^.+\\.(css|less|scss)$': 'babel-jest',
-    '^.+\\.md$': 'markdown-to-jsx',
+    '^.+\\.md$': '<rootDir>/src/__mocks__/fileMock.js',
   },
 };
 

@@ -28,12 +28,18 @@ beforeAll(() => {
 
 describe('renders the app', () => {
   // mocks the fetch API used on the stats page and the about page.
+  // mocks the fetch API used on the stats page and the about page.
   const jsonMock = jest.fn(() => Promise.resolve({}));
   const textMock = jest.fn(() => Promise.resolve(''));
-  global.fetch = jest.fn(() => Promise.resolve({
-    json: jsonMock,
-    text: textMock,
-  }));
+
+  beforeAll(() => {
+    const mockFetch = jest.fn(() => Promise.resolve({
+      json: jsonMock,
+      text: textMock,
+    }));
+    global.fetch = mockFetch;
+    window.fetch = mockFetch;
+  });
   // mocks the scrollTo API used when navigating to a new page.
   window.scrollTo = jest.fn();
 
