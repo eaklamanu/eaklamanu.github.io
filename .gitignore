@@ -5,3 +5,5 @@ _site
 Gemfile.lock
 *.code-workspace
 node_modules/
+debug_*.txt
+debug_*.html
