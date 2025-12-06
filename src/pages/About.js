@@ -7,25 +7,13 @@ const About = () => {
   const [markdown, setMarkdown] = useState('');
 
 
-
   useEffect(() => {
-    import('../data/about.md')
-      .then((res) => {
-        const url = res?.default;
-        console.error('DEBUG: res', res);
-        console.error('DEBUG: url', url);
-        if (!url) throw new Error('Markdown URL not found');
-        const fetchPromise = fetch(url);
-        console.error('DEBUG: fetchPromise', fetchPromise);
-        return fetchPromise;
-      })
-      .then((r) => r.text())
-      .then(setMarkdown)
-      .catch((err) => {
-        setMarkdown('Failed to load markdown file.');
-        console.error(err);
-      });
-  }, []);
+    import('../data/about.md').then((res) => {
+      fetch(res.default)
+        .then((r) => r.text())
+        .then(setMarkdown);
+    });
+  });
 
   const count = markdown
     .split(/\s+/)
