@@ -1,7 +1,7 @@
 #Intro
 I believe life is simple. Some of its biggest questions often have simple yet profound answers: Why am I here? What is a successful life?
 I am a Christian. I believe our purpose on earth is to glorify God, and I strive to let that shape how I live and work. I am also a quintessential introvert who enjoys simulating and evaluating conversations, ideas, and problems in my head — you might say I carry a “model of the world” within me.
-If you’d like to talk about faith, ideas, or engineering, I’d be glad to connect with you [here](mailto: elormaklamanu626@gmail.com) .
+If you’d like to talk about faith, ideas, or engineering, I’d be glad to connect with you [here](mailto:elormaklamanu626@gmail.com) .
 
 #My Journey
 My path into robotics and control systems has been a gradual one, shaped by early interests in Mathematics and Physics. These subjects led me to study Electrical and Electronic Engineering, where I discovered the fascinating world of Control Systems.
