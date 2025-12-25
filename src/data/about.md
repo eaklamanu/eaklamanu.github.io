@@ -141,7 +141,7 @@ I hope to pursue a career in Control Systems, where I can combine teaching and r
 	Hand in hand, we're complete,
 	Head on Your shoulder, comfort abounds
 	Arms around You, a fountain of joy springs
-	In each other’s presence - I've found home
+	In Your presence - I've found home
 
 
 I hope you liked them!
