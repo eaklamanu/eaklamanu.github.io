@@ -1,6 +1,6 @@
 #Intro
-I believe life is simple. Some of its biggest questions often have simple yet profound answers: Why am I here? What is a successful life?
-I am a Christian. I believe our purpose on earth is to glorify God, and I strive to let that shape how I live and work. I am also a quintessential introvert who enjoys simulating and evaluating conversations, ideas, and problems in my head — you might say I carry a “model of the world” within me.
+I believe life is simple. Some of its biggest questions often have simple yet profound answers: Why am I here? What is true success?
+I am a Christian. I believe our purpose on earth is to glorify God, and I strive to let that shape how I live and work. I am an introvert with a prolific imagination. 
 If you’d like to talk about faith, ideas, or engineering, I’d be glad to connect with you [here](mailto:elormaklamanu626@gmail.com) .
 
 #My Journey
@@ -15,10 +15,8 @@ My goal is to design control systems that solve real-world problems, and also cr
 I enjoy reading and journaling, sometimes writing poems and short stories along the way. Writing helps me express my emotions in a constructive way. I love running because it makes me feel like I'm pushing my limits. Classical music keeps me grounded and helps me focus. I love cooking especially when I can share the food with others.
 
 # Beyond the Books and Code
-I love reading my Bible and am currently on a [daily plan](https://video.wvbs.org/access/interactive-bible-reading-plan/) to finish reading it this year 2025. My drive is my faith in Jesus and the church of Christ. I love the stars and the sky, and hope to one day visit an observatory. Art captivates me — paintings and drawings speak to me, and I can stare at a piece and immerse myself in its world. I write poems, stories, and letters; in fact, most of my journal entries are written as letters. There is so much beauty in this world, yet many rarely pause to lift their eyes and see the stars. I try to notice the beauty in God’s creation, and it keeps life in perspective for me.
+I love reading my Bible and am currently on a [daily plan](https://video.wvbs.org/access/interactive-bible-reading-plan/) to finish reading it this year - 2025. My drive is my faith in Jesus and the church of Christ. I love books. I love the stars and the sky, and hope to one day visit an observatory. There is so much beauty in this world, yet it sometimes escapes me to lift my eyes and see the stars. I try to notice the beauty in God’s creation, and it keeps life in perspective for me.
 
-#I think
-One of man's greatest inventions was the printing press. Today, knowledge can be shared with ease, outliving the compiler who first gathered it.
 
 #My favorite
 - Book - The Bible
@@ -28,11 +26,13 @@ One of man's greatest inventions was the printing press. Today, knowledge can be
 - Learn how to read music
 - Learn to play the piano or violin
 - Learn sign language
-- Read the entire bible
+- ~~Read the entire bible~~
+- Read the entire bible twice
 
 #Lessons I live by
 - There is a cure-all for all of life's problems: knowing God.
 - The Bible has all the answers you need.
+- Never give up on a worthy pursuit.
 
 #Looking Ahead
 I hope to pursue a career in Control Systems, where I can combine teaching and research to inspire the next generation of engineers. My vision is to contribute to the intersection of Control Systems, Robotics, and Human Well-being by advancing knowledge while creating practical solutions. Engineering is not only about solving equations, but further using those equations to improve lives and shape a better future.
